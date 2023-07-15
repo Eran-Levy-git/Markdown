@@ -10,7 +10,7 @@
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://{userid}.github.io/{reponame}
 </code></pre></div></div>
 
-# Enable GitHub Pages
+<h2 >Enable GitHub Pages  </h2>
 
 * Choose the **Settings** gear icon for your repository near the upper right of the page.
 
